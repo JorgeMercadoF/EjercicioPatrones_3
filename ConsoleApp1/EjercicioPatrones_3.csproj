@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CentralUnit.cs" />
+    <Compile Include="Computer.cs" />
+    <Compile Include="DeviceInput.cs" />
+    <Compile Include="DeviceOutput.cs" />
+    <Compile Include="IComponent.cs" />
+    <Compile Include="IComputer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
